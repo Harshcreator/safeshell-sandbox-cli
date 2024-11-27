@@ -145,6 +145,9 @@ safeshell-sandbox-cli/
 ---
 
 ### License  
-MIT License.  
+MIT License.
 
-Let me know if you’d like help generating the actual project structure!
+### Meta
+
+Harsh Singh - (harshsingh220603@gmail.com)
+https://github.com/Harshcreator/
